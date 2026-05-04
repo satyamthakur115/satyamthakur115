@@ -59,7 +59,7 @@
 |---|---|---|
 | 🏦 [Financial KPI Dashboard](https://github.com/satyamthakur115/financial-KPI-dashboard-) | End-to-end SQL + Python pipeline for financial KPI reporting and trend analysis | SQL, Python, Excel, Power BI |
 | 🛒 [Retail Sales Performance Dashboard](https://github.com/satyamthakur115/retail-sales-performance-dashboard) | ETL pipeline + multi-dimensional sales analysis with regional breakdowns | SQL, Python, Pandas, Tableau |
-| 💼 [Job Tracker App](https://github.com/satyamthakur115/Job-Tracker) | Modern web app to track job applications with status management | HTML, CSS, JavaScript |
+| 💼 [Canadian Job Market Analysis](https://github.com/satyamthakur115/Canadian-job-market-analysis) | Analyzed 1,200 DA job postings across Canada — salary benchmarks, top skills, city demand | SQL, Python, Pandas, MySQL |
 
 ---
 
