@@ -20,7 +20,7 @@
 
 - 🏢 **4+ years** of experience as a Data & Systems Analyst — designing SQL databases, building BI dashboards, and automating reporting pipelines
 - 🎓 **Diploma in Financial Analysis** — Conestoga College, Canada (GPA: 3.55 / 4.0)
-- 🇨🇦 Based in **Saskatoon, SK** — actively seeking **Data Analyst / Business Intelligence / Database roles across Canada**
+- actively seeking **Data Analyst / Business Intelligence / Database roles across Canada**
 - 💡 Passionate about turning messy raw data into clean, actionable insights that help businesses make smarter decisions
 - 🏆 Reduced query processing time by **95%** and improved data accuracy to **98%** in a real production environment
 - 🤝 Trilingual — **English, Hindi, Punjabi** — great at communicating findings to both technical and non-technical stakeholders
