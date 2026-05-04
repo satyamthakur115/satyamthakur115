@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Satyam Thakur 👋</h1>
 <h3 align="center">Data Analyst · Database Administrator · SQL & Python Specialist</h3>
-<h4 align="center"> 📍 Canada &nbsp;|&nbsp; 📧 satyamthakur115@gmail.com</h4>
+<h4 align="center">📍Canada &nbsp;|&nbsp; 📧 satyamthakur115@gmail.com</h4>
 
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/satyam-thakur" target="_blank">
+  <a href="https://www.linkedin.com/in/satyam-thakur-94a4231b9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -19,10 +19,12 @@
 ## 👨‍💻 About Me
 
 - 🏢 **4+ years** of experience as a Data & Systems Analyst — designing SQL databases, building BI dashboards, and automating reporting pipelines
-- 🎓 **Diploma in Financial Analysis** — Conestoga College, Canada (GPA: 3.55/4.0)
-- 🔍 Passionate about transforming raw data into actionable insights that drive real business decisions
-- 🤝 Open to **Data Analyst**, **Database Administrator**, and **Business Intelligence** roles across Canada
-- ⚡ Fun fact: I reduced query processing time by **95%** in production by redesigning complex SQL joins
+- 🎓 **Diploma in Financial Analysis** — Conestoga College, Canada (GPA: 3.55 / 4.0)
+- 🇨🇦 Based in **Saskatoon, SK** — actively seeking **Data Analyst / Business Intelligence / Database roles across Canada**
+- 💡 Passionate about turning messy raw data into clean, actionable insights that help businesses make smarter decisions
+- 🏆 Reduced query processing time by **95%** and improved data accuracy to **98%** in a real production environment
+- 🤝 Trilingual — **English, Hindi, Punjabi** — great at communicating findings to both technical and non-technical stakeholders
+- 📜 Oracle Cloud Infrastructure **AI Foundations Certified** + Deloitte Data Analytics simulation (2025)
 
 ---
 
@@ -84,4 +86,3 @@
   <i>"Data is the new oil — I help businesses refine it."</i><br/>
   <b>Let's connect and build something data-driven together!</b>
 </p>
-
