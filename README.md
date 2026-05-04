@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Satyam Thakur 👋</h1>
 <h3 align="center">Data Analyst · Database Administrator · SQL & Python Specialist</h3>
-<h4 align="center">📍 Saskatoon, Saskatchewan, Canada &nbsp;|&nbsp; 📧 satyamthakur115@gmail.com</h4>
+<h4 align="center"> 📍 Canada &nbsp;|&nbsp; 📧 satyamthakur115@gmail.com</h4>
 
 <br/>
 
