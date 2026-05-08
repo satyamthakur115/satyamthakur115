@@ -28,8 +28,10 @@ I build end-to-end reporting pipelines and BI dashboards that turn raw data into
 ---
 
 
-## 📊 Interactive Dashboard
-👉 [View Dashboard](https://satyamthakur115.github.io/Canadian-job-market-analysis/dashboard.html)
+## 📊 Interactive Dashboard 
+👉 [View Dashboard](https://satyamthakur115.github.io/Canadian-job-market-analysis/dashboard.html) Canadian Job Market Analysis
+
+👉 [View Dashboard](https://satyamthakur115.github.io/financial-KPI-dashboard-/financial-dashboard.html) Financial KPI Dashboard
 
 ---
 
