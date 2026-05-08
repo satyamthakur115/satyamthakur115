@@ -36,6 +36,11 @@ I build end-to-end reporting pipelines and BI dashboards that turn raw data into
 
 ---
 
+## 📊 Interactive Dashboard
+👉 [View Live Dashboard](https://satyamthakur115.github.io/Canadian-job-market-analysis/dashboard.html)
+
+---
+
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam%20Thakur-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/satyam-thakur-94a4231b9/)
