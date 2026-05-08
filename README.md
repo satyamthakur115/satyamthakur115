@@ -27,14 +27,6 @@ I build end-to-end reporting pipelines and BI dashboards that turn raw data into
 
 ---
 
-## 📊 Key findings from my Canadian job market research
-
-- **SQL** appears in **90.7%** of Canadian Data Analyst job postings
-- **Toronto** leads with **26.8%** of all postings
-- Average disclosed salary: **CAD $79,742**
-- **Hybrid** work accounts for **50.4%** of roles
-
----
 
 ## 📊 Interactive Dashboard
 👉 [View Live Dashboard](https://satyamthakur115.github.io/Canadian-job-market-analysis/dashboard.html)
