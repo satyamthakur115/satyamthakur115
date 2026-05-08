@@ -33,6 +33,16 @@ I build end-to-end reporting pipelines and BI dashboards that turn raw data into
 
 ---
 
+## 📜 Certifications
+
+- Oracle Cloud Infrastructure 2025 AI Foundations Associate — Oracle (2025)
+- Data Analytics Job Simulation — Deloitte Australia via Forage (2025)
+- Technology Job Simulation — Deloitte Australia via Forage (2025)
+- SQL Server for Data Analysis — Alison (2024)
+
+---
+
+  
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam%20Thakur-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/satyam-thakur-94a4231b9/)
