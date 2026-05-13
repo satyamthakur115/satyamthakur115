@@ -2,7 +2,7 @@
 
 **Data Analyst** | SQL · Python · Power BI · Tableau | Based in Canada
 
-I build end-to-end reporting pipelines and BI dashboards that turn raw data into business decisions — with 4+ years of experience across sales, inventory, and financial analytics.
+I build end-to-end reporting pipelines and BI dashboards that turn raw data into business decisions — 4 portfolio projects spanning retail, finance, SaaS and the Canadian job market.
 
 ---
 
@@ -24,6 +24,7 @@ I build end-to-end reporting pipelines and BI dashboards that turn raw data into
 | [Canadian Job Market Analysis](https://github.com/satyamthakur115/Canadian-job-market-analysis) | Analyzed 1,200 real job postings across Canada — salary benchmarks, in-demand skills, hiring trends | SQL · Python · MySQL |
 | [Financial KPI Dashboard](https://github.com/satyamthakur115/financial-KPI-dashboard-) | End-to-end P&L, budget variance, revenue tracking with automated Excel reports | SQL · Power BI · Python |
 | [Retail Sales Performance Dashboard](https://github.com/satyamthakur115/retail-sales-performance-dashboard) | OLAP star schema + ETL pipeline + Tableau dashboard for 5,000 transactions | SQL · Tableau · ETL |
+| [SaaS Financial Performance Dashboard](https://github.com/satyamthakur115/saas-financial-dashboard) | MRR, ARR, Budget vs Actual variance, Churn Rate, LTV/CAC analysis across 24 months | Python · Plotly · Pandas |
 
 ---
 
