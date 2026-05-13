@@ -34,6 +34,8 @@ I build end-to-end reporting pipelines and BI dashboards that turn raw data into
 
 👉 [View Dashboard](https://satyamthakur115.github.io/financial-KPI-dashboard-/financial-dashboard.html) Financial KPI Dashboard
 
+👉 [View Dashboard](https://satyamthakur115.github.io/retail-sales-performance-dashboard/retail_dashboard.html) Retail Sales Performance Dashboard
+
 👉 [View Dashboard](https://satyamthakur115.github.io/saas-financial-dashboard/saas_dashboard.html) SaaS Financial Performance Dashboard
 
 ---
