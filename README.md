@@ -57,4 +57,4 @@ I build end-to-end reporting pipelines and BI dashboards that turn raw data into
 
 ---
 
-*Open to Data Analyst, BI Analyst, and Financial Analyst opportunities in Canada.*
+*Open to Reporting Analyst, BI Analyst, and Financial Data Analyst opportunities in Canada.*
