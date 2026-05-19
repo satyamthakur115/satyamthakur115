@@ -1,60 +1,44 @@
 # Hi, I'm Satyam Thakur 👋
 
-**Data Analyst** | SQL · Python · Power BI · Tableau | Based in Canada
+**Business Intelligence Analyst**
 
-I build end-to-end reporting pipelines and BI dashboards that turn raw data into business decisions — 4 portfolio projects spanning retail, finance, SaaS and the Canadian job market.
-
----
-
-## 🛠 Tech stack
-
-![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20SQL%20Server-blue?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776AB?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Power%20Query-F2C811?style=flat-square&labelColor=333)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard%20Design-E97627?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=flat-square)
-![Git](https://img.shields.io/badge/Git-GitHub-black?style=flat-square)
+4+ years building end-to-end BI solutions — from OLAP schema design 
+and ETL pipelines to Power BI and Tableau dashboards that drive 
+decisions for sales, finance, and operations teams.
 
 ---
 
-## 📌 Featured projects
+## 🛠️ Tech Stack
 
-| Project | Description | Stack |
+**BI & Visualization:** Power BI · DAX · Power Query · Tableau · Excel  
+**Databases & SQL:** PostgreSQL · MySQL · SQL Server · CTEs · Window Functions  
+**ETL & Python:** Pandas · NumPy · OpenPyXL · psycopg2 · Pipeline Automation  
+**Data Modelling:** Star Schema · Snowflake Schema · 3NF · OLAP Design  
+**Cloud & Tools:** Azure Fundamentals · Oracle Cloud · Git · GitHub · Jira  
+
+---
+
+## 📂 Featured Projects
+
+| Project | Tech | Key Finding |
 |---|---|---|
-| [Canadian Job Market Analysis](https://github.com/satyamthakur115/Canadian-job-market-analysis) | Analyzed 1,200 real job postings across Canada — salary benchmarks, in-demand skills, hiring trends | SQL · Python · MySQL |
-| [Financial KPI Dashboard](https://github.com/satyamthakur115/financial-KPI-dashboard-) | End-to-end P&L, budget variance, revenue tracking with automated Excel reports | SQL · Power BI · Python |
-| [Retail Sales Performance Dashboard](https://github.com/satyamthakur115/retail-sales-performance-dashboard) | OLAP star schema + ETL pipeline + Tableau dashboard for 5,000 transactions | SQL · Tableau · ETL |
-| [SaaS Financial Performance Dashboard](https://github.com/satyamthakur115/saas-financial-dashboard) | MRR, ARR, Budget vs Actual variance, Churn Rate, LTV/CAC analysis across 24 months | Python · Plotly · Pandas |
+| [Financial KPI Dashboard](https://github.com/satyamthakur115/financial-KPI-dashboard) | SQL · Python · Excel | Identified 12% cost reduction opportunity |
+| [Retail Sales Dashboard](https://github.com/satyamthakur115/retail-sales-performance-dashboard) | SQL · Python · ETL | East+West regions = 68% of revenue |
+| [Canadian Job Market Analysis](https://github.com/satyamthakur115/Canadian-job-market-analysis) | SQL · Python · Pandas | Avg salary CAD $79,742 · SQL top skill at 90.7% |
+| [SaaS Financial Dashboard](https://github.com/satyamthakur115/saas-financial-dashboard) | Python · Plotly · SQL | Enterprise MRR grew from $3,897 to $190K+ |
 
 ---
 
+## 📊 GitHub Stats
 
-## 📊 Interactive Dashboard 
-👉 [View Dashboard](https://satyamthakur115.github.io/Canadian-job-market-analysis/dashboard.html) Canadian Job Market Analysis
-
-👉 [View Dashboard](https://satyamthakur115.github.io/financial-KPI-dashboard-/financial-dashboard.html) Financial KPI Dashboard
-
-👉 [View Dashboard](https://satyamthakur115.github.io/retail-sales-performance-dashboard/retail_dashboard.html) Retail Sales Performance Dashboard
-
-👉 [View Dashboard](https://satyamthakur115.github.io/saas-financial-dashboard/saas_dashboard.html) SaaS Financial Performance Dashboard
+![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamthakur115&show_icons=true&theme=default&hide_border=true)
 
 ---
 
-## 📜 Certifications
+## 📫 Let's Connect
 
-- Oracle Cloud Infrastructure 2025 AI Foundations Associate — Oracle (2025)
-- Data Analytics Job Simulation — Deloitte Australia via Forage (2025)
-- Technology Job Simulation — Deloitte Australia via Forage (2025)
-- SQL Server for Data Analysis — Alison (2024)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam_Thakur-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/satyamthakur-94a4231b9)
+[![Email](https://img.shields.io/badge/Email-satyamthakur115@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:satyamthakur115@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F3864?style=flat-square)](https://satyamthakur115.github.io)
 
----
-
-  
-## 🤝 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam%20Thakur-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/satyam-thakur-94a4231b9/)
-[![Email](https://img.shields.io/badge/Email-satyamthakur115%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:satyamthakur115@gmail.com)
-
----
-
-*Open to Reporting Analyst, BI Analyst, and Financial Data Analyst opportunities in Canada.*
+*Open to BI Analyst, Data Analyst, and Reporting Analyst roles across Canada*
