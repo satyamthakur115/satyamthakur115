@@ -31,7 +31,16 @@ decisions for sales, finance, and operations teams.
 
 ## 📊 GitHub Stats
 
-![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamthakur115&show_icons=true&theme=default&hide_border=true)
+## 📊 My Skills At a Glance
+
+![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Expert-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Proficient-E97627?style=flat-square&logo=tableau&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Proficient-150458?style=flat-square&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
